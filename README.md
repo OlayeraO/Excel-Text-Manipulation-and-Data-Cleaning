@@ -38,5 +38,3 @@ Across these projects, work was done on combining text from multiple cells, spli
 - Transforming messy, unstructured data into clean, analysis-ready datasets for business intelligence, reporting, and decision-making
 
 ---
-
-Want me to also generate this as an actual `README.md` file you can drop straight into the repo?
